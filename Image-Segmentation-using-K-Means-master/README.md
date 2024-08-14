@@ -1,1 +1,2 @@
 # Image-Segmentation-using-K-Means
+This project performs image segmentation by extracting dominant colors from an image using the K-Means++ clustering algorithm. The system groups pixels into clusters based on color similarity, effectively segmenting the image into distinct regions. This approach is useful for tasks like object recognition, background removal, and image compression. ( Accuracy - 93.2 % )
